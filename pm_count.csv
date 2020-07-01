@@ -1,0 +1,61 @@
+"","keyword","year","count"
+"1","covid-19",2011,0
+"2","covid-19",2012,0
+"3","covid-19",2013,0
+"4","covid-19",2014,0
+"5","covid-19",2015,0
+"6","covid-19",2016,0
+"7","covid-19",2017,0
+"8","covid-19",2018,0
+"9","covid-19",2019,12
+"10","covid-19",2020,41012
+"11","cancer",2011,41910
+"12","cancer",2012,47422
+"13","cancer",2013,51066
+"14","cancer",2014,55943
+"15","cancer",2015,60259
+"16","cancer",2016,61785
+"17","cancer",2017,64579
+"18","cancer",2018,68568
+"19","cancer",2019,73468
+"20","cancer",2020,85712
+"21","influenza",2011,4357
+"22","influenza",2012,3974
+"23","influenza",2013,3963
+"24","influenza",2014,3672
+"25","influenza",2015,3348
+"26","influenza",2016,3138
+"27","influenza",2017,3106
+"28","influenza",2018,3306
+"29","influenza",2019,3496
+"30","influenza",2020,4014
+"31","mental health",2011,2144
+"32","mental health",2012,2389
+"33","mental health",2013,2511
+"34","mental health",2014,2940
+"35","mental health",2015,3264
+"36","mental health",2016,3452
+"37","mental health",2017,3631
+"38","mental health",2018,4040
+"39","mental health",2019,4473
+"40","mental health",2020,6154
+"41","obesity",2011,4122
+"42","obesity",2012,4561
+"43","obesity",2013,5324
+"44","obesity",2014,5328
+"45","obesity",2015,5535
+"46","obesity",2016,5735
+"47","obesity",2017,5847
+"48","obesity",2018,6002
+"49","obesity",2019,6209
+"50","obesity",2020,7404
+"51","wearable",2011,105
+"52","wearable",2012,115
+"53","wearable",2013,143
+"54","wearable",2014,231
+"55","wearable",2015,329
+"56","wearable",2016,489
+"57","wearable",2017,616
+"58","wearable",2018,758
+"59","wearable",2019,951
+"60","wearable",2020,1016
